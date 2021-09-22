@@ -1,0 +1,30 @@
+﻿  Generate moc_predefs.h
+  UIC widget.ui
+  RCC rsc.qrc
+  MOC listdisplay.h
+  MOC mydialog.h
+  MOC mytable.h
+  MOC titlebar.h
+  MOC widget.h
+  listdisplay.cpp
+E:\QT_\to_do_list\listdisplay.h(12,1): warning C4099: “myProp”: 类型名称以前使用“struct”现在使用的是“class”
+E:\QT_\to_do_list\myprop.h(13): message : 参见“myProp”的声明
+  main.cpp
+  mydialog.cpp
+  myprop.cpp
+E:\QT_\to_do_list\listdisplay.h(12,1): warning C4099: “myProp”: 类型名称以前使用“struct”现在使用的是“class”
+E:\QT_\to_do_list\myprop.h(13): message : 参见“myProp”的声明
+  mytable.cpp
+E:\QT_\to_do_list\mytable.cpp(149,40): warning C4100: “checked”: 未引用的形参
+  titlebar.cpp
+  widget.cpp
+E:\QT_\to_do_list\listdisplay.h(12,1): warning C4099: “myProp”: 类型名称以前使用“struct”现在使用的是“class”
+E:\QT_\to_do_list\myprop.h(13): message : 参见“myProp”的声明
+  moc_listdisplay.cpp
+  moc_mydialog.cpp
+  moc_mytable.cpp
+  moc_titlebar.cpp
+  moc_widget.cpp
+  qrc_rsc.cpp
+  正在生成代码...
+  to_do_list.vcxproj -> E:\QT_\to_do_list\debug\to_do_list.exe

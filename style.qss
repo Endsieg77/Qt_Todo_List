@@ -1,0 +1,86 @@
+QWidget {
+    font-family: "Consolas", "黑体";
+    color: rgba(32, 32, 32, 0.87);
+    background-color: rgba(218, 209, 209, 0.970);
+    font-weight: bold;
+    font-size: 22px;
+    border: none;
+}
+
+#inputArea {
+    font-size: 19px;
+}
+
+#list {
+    background-color: rgba(231, 221, 218, 0.911);
+}
+
+#leftSideBar, #leftSideBar QAbstractButton {
+    background-color: rgba(211, 194, 194, 0.97);
+}
+
+#leftSideBar QLineEdit {
+    background-color: rgba(211, 194, 194, 0.97);
+    border-bottom: 1px solid rgb(17, 16, 16);
+}
+
+QAbstractButton {
+    border: none;
+}
+
+MyTable, MyTableItem, MyTableItem QLabel, MyTableItem QAbstractButton {
+    background-color: none;
+    border: none;
+    margin: 0;
+}
+
+MyTableItem:hover {
+    background-color: rgb(12, 4, 124);
+    color: rgb(227, 231, 231);
+}
+
+ListDisplay, ListDisplay QLabel, ListDisplay QAbstractButton, ListDisplay QLineEdit {
+    background-color: rgba(204, 182, 182, 0.97);
+}
+
+ListDisplay QLineEdit {
+    border-bottom: 1px solid rgb(17, 16, 16);
+}
+
+ListDisplay MyTable {
+    margin-top: 1rem;
+}
+
+#addNew {
+    margin-left: 5px;
+}
+
+#ScheduleTitle {
+    font-size: 39px;
+}
+
+#EstablishedTime {
+    font-size: 19px;
+    color: rgba(46, 40, 40, 0.767);
+    text-decoration: underline;
+}
+
+MyDialog {
+    background-color: rgba(218, 209, 209, 0.970);
+}
+
+MyDialog TitleBar, MyDialog QLabel, MyDialog QToolButton {
+    background-color: none;
+}
+
+MyDialog QPushButton {
+    background-color: rgb(214, 191, 191);
+    border: none;
+    border-radius: 1rem;
+}
+
+MyDialog QPushButton:hover {
+    background-color: rgb(12, 4, 124);
+    color: rgb(227, 231, 231);
+}
+

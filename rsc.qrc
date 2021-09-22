@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/titlebar/close-hover.png</file>
+        <file>images/titlebar/close.png</file>
+        <file>images/titlebar/minimum-hover.png</file>
+        <file>images/titlebar/minimum.png</file>
+        <file>images/rsc.qrc</file>
+        <file>style.qss</file>
+        <file>images/titlebar/titleicon.png</file>
+        <file>logo.ico</file>
+        <file>images/addNew.png</file>
+        <file>images/addNew-hover.png</file>
+        <file>images/list.png</file>
+        <file>images/append.png</file>
+        <file>images/append-hover.png</file>
+        <file>images/delete.png</file>
+        <file>images/delete-hover.png</file>
+        <file>images/list-hover.png</file>
+        <file>images/completion.png</file>
+        <file>images/completion-hover.png</file>
+    </qresource>
+</RCC>
